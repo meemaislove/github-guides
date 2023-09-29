@@ -1,4 +1,3 @@
-# github-guides
-GitHub Guides Tutorials
-https://guides.github.com/
+### hi!
 
+This repository is meant to provide a example for _forking_ a repository on GitHub.
